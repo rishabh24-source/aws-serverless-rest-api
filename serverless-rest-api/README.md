@@ -1,8 +1,8 @@
 # Serverless REST API on AWS
 
 ## Overview
-This project demonstrates a serverless REST API built using AWS services. 
-The application uses AWS Lambda and Amazon API Gateway to handle HTTP requests 
+This project demonstrates a serverless REST API built using AWS services.
+The application uses AWS Lambda and Amazon API Gateway to handle HTTP requests
 without managing servers, following a scalable and cost-efficient cloud architecture.
 
 ## Key Features
@@ -18,5 +18,5 @@ without managing servers, following a scalable and cost-efficient cloud architec
 - Python
 
 ## Purpose
-This project was customized and deployed to gain hands-on experience with AWS 
+This project was customized and deployed to gain hands-on experience with AWS
 serverless application development and cloud-based REST APIs.
